@@ -4,7 +4,7 @@
   <project path="yocto/meta-clang" name="linux/poky" revision="088904d40231d9e099c2f5039cd3c2bc47d332d1"/>
   <project path="yocto/meta-openembedded" name="linux/poky" revision="4647e3ea3708d30eeb0149f6d5626c9576bff520"/>
   <project path="yocto/meta-qt5" name="linux/poky" revision="b64b0a213240375e697185de06c3f502c65cdee7"/>
-  <project path="yocto/meta-rockchip" name="linux/yocto/meta-rockchip" revision="honister"/>
+  <project path="yocto/meta-rockchip" name="linux/yocto/meta-rockchip" revision="212e02cc866066f24a143713776be4917353faf5"/>
   <project path="yocto/poky" name="linux/poky" revision="883341e9ca18925b25e879866cca90bb57b552f2">
     <linkfile dest="yocto/scripts" src="scripts"/>
     <linkfile dest="yocto/bitbake" src="bitbake"/>
